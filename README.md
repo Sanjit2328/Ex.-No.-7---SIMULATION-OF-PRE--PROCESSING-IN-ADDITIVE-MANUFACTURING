@@ -38,15 +38,16 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+## OUTPUT:  
+![WhatsApp Image 2023-12-11 at 16 06 20_2abde534](https://github.com/Sanjit2328/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331694/240b8837-a872-4bac-96d6-aa26bd9322b8)
+![WhatsApp Image 2023-12-11 at 16 06 20_71e28930](https://github.com/Sanjit2328/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331694/121fdfbb-108f-40bf-8b33-647a2b525bad)
+![WhatsApp Image 2023-12-11 at 16 06 21_722225b9](https://github.com/Sanjit2328/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331694/0f344620-7243-441d-9d52-a57c5516b216)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:SANJIT P
+### Register Number:212223230190
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
